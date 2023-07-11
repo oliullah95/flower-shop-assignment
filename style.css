@@ -264,7 +264,7 @@ body {
 
 }
 
-.flowerShop_section p {
+.flowerShop_section {
     color: rgba(255, 255, 255, 0.90);
     font-size: 18px;
     line-height: 30px;
@@ -275,13 +275,13 @@ body {
     color: #FFFFFF;
 }
 
-.flowerShop_section P1 {
+.footer_one {
     color: rgba(255, 255, 255, 0.90);
     font-size: 18px;
     line-height: 30px;
 }
 
-.flowers-section P2 {
+.footer_two {
     color: rgba(255, 255, 255, 0.40);
     font-size: 16px;
     font-weight: 400;
