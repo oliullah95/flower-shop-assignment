@@ -134,21 +134,25 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 100px;
 
+}
+.delivery{
+    text-align: center;
 }
 
 .delivery-section-pera {
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
-    font-weight: 600;
+    font-weight: 400;
     line-height: 35px;
-
 }
 
 .delivery-section-img {
     width: 88px;
     height: 88px;
-    padding: 86px;
+    padding-top: 86px;
+    
 }
 
 .hot_del_section {
