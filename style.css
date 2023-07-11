@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .head {
@@ -109,4 +109,43 @@ body {
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+}
+
+.delivery-section {
+    width: 1440px;
+    height: 320px;
+    margin: 0 auto;
+    border-radius: 8px;
+    margin-top: 100px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
+
+.delivery-sections {
+    gap: 120px;
+    height: 325;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.same-delivery {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.delivery-section-pera {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-weight: 600;
+    line-height: 35px;
+
+}
+
+.delivery-section-img {
+    width: 88px;
+    height: 88px;
+    padding: 86px;
 }
