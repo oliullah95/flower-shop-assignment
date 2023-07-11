@@ -187,18 +187,18 @@ body {
     line-height: 30px;
 }
 
-.Instagram_section {
+.instagram_section {
     text-align: center;
     margin-top: 120px;
 }
 
-.Instagram_info {
+.instagram_info {
     color: #272727;
     font-size: 40px;
     font-weight: 900;
 }
 
-.Instagram_section_img {
+.instagram_section_img {
     display: flex;
     gap: 24px;
     width: 1440px;
@@ -246,37 +246,38 @@ body {
     font-weight: 400;
 }
 
-.FlowerShop {
+.flowerShop {
     text-align: center;
     width: 1922px;
     height: 449px;
     background: #111010;
 }
 
-.FlowerShop_section h2 {
+.flowerShop_section h2 {
+    padding-top: 100px;
     color: #E55473;
     font-size: 48px;
 
 }
 
-.FlowerShop_section p {
+.flowerShop_section p {
     color: rgba(255, 255, 255, 0.90);
     font-size: 18px;
     line-height: 30px;
 }
 
-.FlowerShop_section h2 span {
+.flowerShop_section h2 span {
 
     color: #FFFFFF;
 }
 
-.FlowerShop_section P1 {
+.flowerShop_section P1 {
     color: rgba(255, 255, 255, 0.90);
     font-size: 18px;
     line-height: 30px;
 }
 
-.Flowers-section P2 {
+.flowers-section P2 {
     color: rgba(255, 255, 255, 0.40);
     font-size: 16px;
     font-weight: 400;
