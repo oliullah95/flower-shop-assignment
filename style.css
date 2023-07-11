@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.head {
+    justify-content: space-between;
+    background-color: rgba(229, 84, 115, 0.10);
+
+}
+
+.header {
+    display: flex;
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+.header-taitle {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.header-pera {
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.header-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    border: none;
+
+
+}
+
+.header image {
+    width: 635px;
+    height: 800px;
+}
