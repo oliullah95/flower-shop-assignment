@@ -67,6 +67,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    margin-bottom: 100px;
 }
 
 .same {
@@ -148,4 +149,39 @@ body {
     width: 88px;
     height: 88px;
     padding: 86px;
+}
+
+.hot_del_section {
+    background: rgba(229, 84, 115, 0.05);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 128px;
+}
+
+.hot_deal_info{
+    text-align: center;
+}
+.hot_deal_info button {
+    border-radius: 8px;
+    background: #E55473;
+    width: 155px;
+    height: 64px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.hot_deal_info h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+.hot_deal_info p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
 }
